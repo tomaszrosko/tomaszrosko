@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rosiek91
+- 👋 Hi, I’m @tomaszrosko
 - 👀 I’m interested in new technologies, spending time actively and meeting interesting people.
 - 🌱 I’m currently learning HTML, CSS and JavaScript.
 - 💞️ I’m looking to collaborate on  interesting project. 
