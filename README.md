@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tomaszrosko
 - 👀 I’m interested in new technologies, spending time actively and meeting interesting people.
-- 🌱 I’m currently learning HTML, CSS and JavaScript.
+- 🌱 I’m currently learning HTML, CSS, JavaScript and React.
 - 💞️ I’m looking to collaborate on  interesting project. 
 - 📫 How to reach me adress email: tomasz.rosko@gmail.com.
 
